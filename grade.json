@@ -1,15 +1,15 @@
 {
-  "tp": 0,
-  "fp": 0,
-  "fn": 7740,
-  "precision": 0.0,
-  "recall": 0.0,
-  "f1": 0.0,
-  "avg_tactic_accuracy": 0.0,
-  "avg_technique_accuracy": 0.0,
-  "avg_importance_accuracy": 0.0,
-  "avg_f1_en": 0.0,
-  "avg_f1_ru": 0.0,
-  "total_files_en": 0,
-  "total_files_ru": 0
+  "tp": 1868,
+  "fp": 1431,
+  "fn": 5872,
+  "precision": 0.5662,
+  "recall": 0.2413,
+  "f1": 0.3384,
+  "avg_tactic_accuracy": 0.2222,
+  "avg_technique_accuracy": 0.1296,
+  "avg_importance_accuracy": 0.463,
+  "avg_f1_en": 0.8807,
+  "avg_f1_ru": 0.7456,
+  "total_files_en": 54,
+  "total_files_ru": 54
 }
